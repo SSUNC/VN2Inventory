@@ -1,0 +1,10 @@
+numpy
+pandas
+datetime
+scikit-learn
+tbats
+statsforecast
+pmdarima
+seaborn
+matplotlib
+-e .
